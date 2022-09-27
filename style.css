@@ -1,0 +1,19 @@
+body{
+    font-family: 'Secular One', sans-serif;
+
+}
+
+#titlehead{
+    font-family: 'Secular One', sans-serif;
+    font-size: 65px;
+    color:#2F336B;
+    padding: 10%;
+}
+#titlepara{
+    margin-top: -10%;
+    text-align: center;
+    color: gray;
+}
+.card:hover{
+    transform: scale(1.1);
+}
